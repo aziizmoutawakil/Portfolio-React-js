@@ -2,32 +2,28 @@ const Services_Data = [
     {
         s_no:"01",
         s_name:"Web design",
-        s_desc:"Web development is the process of building, programming..."
+        s_desc:"Layout Design Typography Graphic Design Color Schemes..."
     },
     {
         s_no:"02",
-        s_name:"Graphics design",
-        s_desc:"Web development is the process of building, programming..."
+        s_name:"Front-End ",
+        s_desc:"web Devloppment UI/UX Designe Wireframing and Prototyping..."
     },
     {
         s_no:"03",
-        s_name:"Social media",
-        s_desc:"Web development is the process of building, programming..."
+        s_name:"Back-End ",
+        s_desc:"Database Management API Development Server-Side Development..."
     },
-    {
-        s_no:"04",
-        s_name:"App design",
-        s_desc:"Web development is the process of building, programming..."
-    },
+   
     {
         s_no:"05",
         s_name:"Digital marketing",
-        s_desc:"Web development is the process of building, programming..."
+        s_desc:"Social Media Marketing Advertising Conversion Rate Optimization  Pay-Per-Click "
     },
     {
         s_no:"06",
-        s_name:"Content writing",
-        s_desc:"Web development is the process of building, programming..."
+        s_name:"Mobile Devlopper",
+        s_desc:"UI/UX Design Backend Development Consultation and Strategy"
     },
 ]
  

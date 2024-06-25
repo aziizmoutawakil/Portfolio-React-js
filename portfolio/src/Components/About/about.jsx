@@ -22,20 +22,16 @@ const About = () => {
               to create a powerful and efficient framework for full-stack web
               development.
             </p>
-            <p>
-              It empowers developers to build modern, scalable web applications
-              by leveraging JavaScript across the entire stack, from front-end
-              to back-end
-            </p>
+
           </div>
           <div className="about_skills">
             <div className="about_skill">
               <p>JavaScript</p>
-              <hr style={{ width: "90%" }} />
+              <hr style={{ width: "100%" }} />
             </div>
             <div className="about_skill">
               <p>React Js</p>
-              <hr style={{ width: "80%" }} />
+              <hr style={{ width: "100%" }} />
               </div>
               
             <div className="about_skill">
@@ -43,8 +39,24 @@ const About = () => {
               <hr style={{ width: "70%" }} />
             </div>
             <div className="about_skill">
-              <p>MERN Stack</p>
+              <p>MongoDB</p>
               <hr style={{ width: "75%" }} />
+            </div> <div className="about_skill">
+              <p>Tailwind & Bootstrap</p>
+              <hr style={{ width: "100%" }} />
+            </div><div className="about_skill">
+              <p>Next js</p>
+              <hr style={{ width: "55%" }} />
+            </div> <div className="about_skill">
+              <p>Node js</p>
+              <hr style={{ width: "95%" }} />
+            </div> <div className="about_skill">
+              <p>Express js</p>
+              <hr style={{ width: "95%" }} />
+            </div>
+            <div className="about_skill">
+              <p>TypeScript</p>
+              <hr style={{ width: "60%" }} />
             </div>
           </div>
         </div>
