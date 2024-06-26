@@ -23,6 +23,7 @@ const Mywork = () => {
       <div className="mywork_showmore">
         <p>Show More </p>
         <img src={arrow_icon} alt="" />
+        <div></div>
       </div>
     </div>
   );
